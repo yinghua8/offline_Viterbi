@@ -9,7 +9,7 @@ reference : https://web.mit.edu/music21/doc/index.html
 
 **2. Improve the original Viterbi by taking into account the sudden change in slope that occurs when an error occurs in our scoring process.**
 
-**3. Instead of doing backtracking in Viterbi, we use forward tracking to fix the error for "playing from the head error" in our testing data **
+**3. Instead of doing backtracking in Viterbi, we use forward tracking to fix the error for "playing from the head error" in our testing data.**
 
 The red arrow in following videos shows how our different algorithm track the score : 
 * How tracking will do under normal circumstances (with no error in the playing) : https://youtu.be/KHZuHf9Cq74
