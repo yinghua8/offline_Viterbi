@@ -5,6 +5,7 @@ co-author : YING AN HONG
 We use three different ways to implement offline Viterbi, aiming for score following. Meanwhile, we use Pygame to demonstrate how our code works in different cases.
 
 **1. Original Viterbi**
+
 reference : https://web.mit.edu/music21/doc/index.html
 
 **2. Improve the original Viterbi by taking into account the sudden change in slope that occurs when an error occurs in our scoring process.**
